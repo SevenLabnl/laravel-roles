@@ -1,5 +1,5 @@
 {
-    "name": "7lab/laravel-roles",
+    "name": "sevenlab/laravel-roles",
     "description": "Powerful package for handling roles and permissions in Laravel.",
     "keywords": [
         "roles",

@@ -32,7 +32,7 @@ This package is very easy to set up. There are only couple of steps.
 
 Pull this package in through Composer
 ```
-composer require 7Lab/laravel-roles
+composer require sevenlab/laravel-roles
 ```
 
 > If you are still using Laravel 5.0, you must pull in version `1.7.*`.
